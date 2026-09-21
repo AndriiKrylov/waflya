@@ -1,5 +1,6 @@
-#include <iostream>
+C++
 
-void printHelloWorld() {
-    std::cout << "Hello, World!" << std::endl;
+double calculateSum(double a, double b) {
+    double result = a + b;
+    return result;
 }
